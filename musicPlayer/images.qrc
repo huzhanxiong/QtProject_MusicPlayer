@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/back_ima.png</file>
+        <file>images/clear.png</file>
+        <file>images/file.png</file>
+        <file>images/find.png</file>
+        <file>images/minus.png</file>
+        <file>images/uloop0.png</file>
+        <file>images/uloop1.png</file>
+        <file>images/uloop2.png</file>
+        <file>images/uloop3.png</file>
+        <file>images/unext.png</file>
+        <file>images/uplay.png</file>
+        <file>images/upluse.png</file>
+        <file>images/uprevious.png</file>
+        <file>images/ustop.png</file>
+        <file>images/volume0.png</file>
+        <file>images/volume1.png</file>
+        <file>images/volume2.png</file>
+        <file>images/volume3.png</file>
+        <file>images/location.png</file>
+        <file>images/menu.png</file>
+    </qresource>
+</RCC>
