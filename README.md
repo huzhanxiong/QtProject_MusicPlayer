@@ -1,2 +1,3 @@
-# QtProject_MusicPlayer
-A local MusicPlayer base on Qt
+ 这是一个基于Qt带频谱显示的本地音乐播放器，其中音频数据的获取借助于 音效引擎FMOD 提供的API，项目中带有VS版的dll文件和头文件。
+ 
+ 自动写入曲单，歌曲搜索，歌词显示。
