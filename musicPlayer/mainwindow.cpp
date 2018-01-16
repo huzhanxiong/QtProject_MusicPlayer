@@ -1,4 +1,12 @@
-﻿#include "mainwindow.h"
+//////////////////////////////////////////////////////////////////////////
+// Version:		1.0
+// Date:	    2018-1-15
+// Author:	    huzhanxiong
+// Copyright:   huzhanxiong
+// Desciption:
+// A Local MusicPlayer.
+//////////////////////////////////////////////////////////////////////////
+#include "mainwindow.h"
 #include <QTextStream>
 #include <QFileDialog>
 #include <QFile>
